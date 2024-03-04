@@ -7,7 +7,7 @@ Selamat datang di week ketiga kelas praktikum PBO. Pada kesempatan kali ini, Boc
 ### ✅ Must Requirements
 1. Membuat minimal 3 class diagram 
 2. Masing-masing class diagram wajib memiliki minimal 2 attribut dan 3 method
-3. Class diagram yang dirancang wajib mengikuti team yang kamu pilih
+3. Class diagram yang dirancang wajib mengikuti tema yang kamu pilih
 
 ## ⏳ Deadline
 
