@@ -33,7 +33,7 @@ Dino senpai yang baik hati memberikan deadline 15 hari sejak tugas ini dipublish
 
 - Tambahkan repository original sebagai remote dengan menjalankan command berikut di terminal
 ```zsh
-git remote add upstream https://github.com/dvnf10cpp/PBO-PTI-A-Repo/
+git remote add upstream https://github.com/dvnf10cpp/PBO-PTI-A-Repo.git
 ```
 - Lakukan merge dengan menjalankan command berikut di terminal
 ```zsh
