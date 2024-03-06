@@ -72,7 +72,7 @@ git push origin master
 ```
 - Pastikan gambar sudah ada di github repository milik kamu
 - Buatlah video penjelasan mengenai class diagram yang kamu buat
-- Maksimal durasi video 12 menit
+- Maksimal durasi video 20 menit
 - Upload video penjelasan ke youtube dan batasi videonya hanya yang memiliki link yang dapat melihat
 - Kumpulkan juga gambar rancangan class diagram ke classroom
 
