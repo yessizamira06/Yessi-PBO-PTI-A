@@ -1,8 +1,8 @@
 # 📁 Tugas 2 : Class and Object
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Yessi Zamira Triandani             
+NIM  : 235150600111003
 
 ## 📤 Submission
 
